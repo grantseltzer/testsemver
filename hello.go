@@ -1,6 +1,6 @@
 package testsemver
 
 func PrintHello() {
-	print("hello!")
+	print("Greetings!")
 }
 
