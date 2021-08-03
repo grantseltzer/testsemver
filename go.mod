@@ -1,3 +1,3 @@
-module github.com/grantseltzer/test
+module github.com/grantseltzer/testsemver
 
 go 1.16
